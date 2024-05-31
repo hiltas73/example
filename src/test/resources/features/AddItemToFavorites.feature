@@ -1,5 +1,5 @@
 Feature: Add item to favorites
-  @wip
+
   Scenario: Search for Lacoste and add to favorites
     Given the user navigate to the URL
     And the user enter valid "h_iltas@yahoo.com" and "12345Hi"

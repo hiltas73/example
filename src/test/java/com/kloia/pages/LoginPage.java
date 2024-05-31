@@ -15,6 +15,9 @@ public class LoginPage extends BasePage{
     @FindBy(id = "loginButton")
     public WebElement loginButton;
 
+    @FindBy(className = "error-message")
+    public WebElement errorMessage;
+
     public void loginWithValidCredentials(String email, String password){
         this.emailBox.sendKeys(email);
         this.passwordBox.sendKeys(password);
