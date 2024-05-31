@@ -1,4 +1,4 @@
-package com.kloia.utilities;
+package com.example.utilities;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;

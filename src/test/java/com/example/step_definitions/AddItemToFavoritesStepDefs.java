@@ -1,4 +1,4 @@
-package com.kloia.step_definitions;
+package com.example.step_definitions;
 
 public class AddItemToFavoritesStepDefs {
 

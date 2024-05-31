@@ -1,4 +1,4 @@
-package com.kloia.utilities;
+package com.example.utilities;
 
 import java.io.FileInputStream;
 import java.io.IOException;

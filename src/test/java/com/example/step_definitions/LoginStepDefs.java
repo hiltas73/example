@@ -1,8 +1,8 @@
-package com.kloia.step_definitions;
+package com.example.step_definitions;
 
-import com.kloia.pages.LoginPage;
-import com.kloia.utilities.ConfigurationReader;
-import com.kloia.utilities.Driver;
+import com.example.pages.LoginPage;
+import com.example.utilities.ConfigurationReader;
+import com.example.utilities.Driver;
 import io.cucumber.java.en.*;
 import static org.junit.Assert.*;
 

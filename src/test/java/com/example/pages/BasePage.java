@@ -1,6 +1,6 @@
-package com.kloia.pages;
+package com.example.pages;
 
-import com.kloia.utilities.Driver;
+import com.example.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;

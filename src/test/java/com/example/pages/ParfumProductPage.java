@@ -1,4 +1,4 @@
-package com.kloia.pages;
+package com.example.pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

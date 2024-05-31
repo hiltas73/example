@@ -1,4 +1,4 @@
-package com.kloia.runners;
+package com.example.runners;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
                 "me.jvt.cucumber.report.PrettyReports:target/cucumber"
         },
         features = "src/test/resources/features",
-        glue = "com/kloia/step_definitions",
+        glue = "com/example/step_definitions",
         dryRun = false,
         tags = "@wip",
         publish = true //generating a report with public link

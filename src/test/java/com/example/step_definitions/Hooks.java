@@ -1,7 +1,7 @@
-package com.kloia.step_definitions;
+package com.example.step_definitions;
 
-import com.kloia.utilities.BrowserUtils;
-import com.kloia.utilities.Driver;
+import com.example.utilities.BrowserUtils;
+import com.example.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;

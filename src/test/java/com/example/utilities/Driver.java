@@ -1,4 +1,4 @@
-package com.kloia.utilities;
+package com.example.utilities;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebDriverException;
